@@ -1,0 +1,6 @@
+[submodule "preprocess/RAFT"]
+	path = preprocess/RAFT
+	url = https://github.com/princeton-vl/RAFT
+[submodule "inference/v2v_data/DepthCrafter"]
+	path = inference/v2v_data/DepthCrafter
+	url = https://github.com/Tencent/DepthCrafter.git

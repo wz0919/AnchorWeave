@@ -1,0 +1,14 @@
+out/*
+
+__pycache__
+*.png
+*.npy
+*.ply
+*.jpg
+
+data/train/*
+!data/train/.gitkeep
+
+pretrained/*
+!pretrained/.gitkeep
+checking_scripts/*
