@@ -1,6 +1,6 @@
 # AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories
 
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://zunwang1.github.io/AnchorWeave)  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](#)  [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wz0919/AnchorWeave)
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://zunwang1.github.io/AnchorWeave)  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2602.14941)  [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wz0919/AnchorWeave)
 
 **Zun Wang**<sup>1</sup>, **Han Lin**<sup>1</sup>, **Jaehong Yoon**<sup>2</sup>, **Jaemin Cho**<sup>3</sup>, **Yue Zhang**<sup>1</sup>, **Mohit Bansal**<sup>1</sup>
 
@@ -81,6 +81,7 @@ bash scripts/inference.sh
 @article{anchorweave2025,
   title={AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories},
   author={Wang, Zun and Lin, Han and Yoon, Jaehong and Cho, Jaemin and Zhang, Yue and Bansal, Mohit},
+  journal={arXiv preprint arXiv:2602.14941},
   year={2025}
 }
 ```
